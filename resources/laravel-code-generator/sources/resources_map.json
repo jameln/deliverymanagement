@@ -1,0 +1,66 @@
+[
+    {
+        "model-name": "currency",
+        "resource-file": "currencies.json"
+    },
+    {
+        "model-name": "delivery_agent",
+        "resource-file": "delivery_agents.json"
+    },
+    {
+        "model-name": "delivery_company",
+        "resource-file": "delivery_companies.json"
+    },
+    {
+        "model-name": "delivery_deposit",
+        "resource-file": "delivery_deposits.json"
+    },
+    {
+        "model-name": "delivery_request",
+        "resource-file": "delivery_requests.json"
+    },
+    {
+        "model-name": "delivery_request_items",
+        "resource-file": "delivery_request_items.json"
+    },
+    {
+        "model-name": "delivery_user",
+        "resource-file": "delivery_users.json"
+    },
+    {
+        "model-name": "sender_category",
+        "resource-file": "sender_categories.json"
+    },
+    {
+        "model-name": "sender_client",
+        "resource-file": "sender_clients.json"
+    },
+    {
+        "model-name": "sender_client_address",
+        "resource-file": "sender_client_addresses.json"
+    },
+    {
+        "model-name": "sender_company",
+        "resource-file": "sender_companies.json"
+    },
+    {
+        "model-name": "sender_delivery",
+        "resource-file": "sender_deliveries.json"
+    },
+    {
+        "model-name": "sender_items",
+        "resource-file": "sender_items.json"
+    },
+    {
+        "model-name": "sender_site",
+        "resource-file": "sender_sites.json"
+    },
+    {
+        "model-name": "sender_user",
+        "resource-file": "sender_users.json"
+    },
+    {
+        "model-name": "status",
+        "resource-file": "statuses.json"
+    }
+]
